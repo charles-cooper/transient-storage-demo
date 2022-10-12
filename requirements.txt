@@ -1,2 +1,2 @@
-titanoboa
-vyper
+titanoboa>=0.1.6
+git+https://github.com/vyperlang/vyper@cec76a2d2963791ca5b670589166fa61a618d47c
